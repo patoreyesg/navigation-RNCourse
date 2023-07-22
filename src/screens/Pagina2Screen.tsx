@@ -12,6 +12,7 @@ export const Pagina2Screen = ({navigation}: Props) => {
       title: 'Opción 2',
       headerBackTitle: '',
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
