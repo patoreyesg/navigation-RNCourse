@@ -4,7 +4,7 @@ import {
   DrawerContentScrollView,
   createDrawerNavigator,
 } from '@react-navigation/drawer';
-import {StackNavigator} from './StackNavigator';
+// import {StackNavigator} from './StackNavigator';
 import SettingsScreen from '../screens/SettingsScreen';
 import {
   Image,
